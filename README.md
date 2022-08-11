@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello everyone, this is my profile, here is a little bit of everything
 
 <!--
 **Gecri/Gecri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
