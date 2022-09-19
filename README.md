@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  my ig is!! _al3jandr0_v:) ("https://www.instagram.com/_al3jandr0_v/")
 - 😄 Pronouns: He!
 - ⚡ Fun fact: im emo jsjsj
--->
+-->i'm creating a game in c#, and i'm learning cold fusion
