@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning c# and use command box
 - 🤔 I’m looking for help with 
 - 💬 Ask me about c# and c++
-- 📫 How to reach me:  my ig is!! _al3jandr0_v:) ("https://www.instagram.com/_al3jandr0_v/")
+- 📫 How to reach me:  my ig is!! _al3jandr0_v:) ("https://www.instagram.com/_al3jandr0_v/") and my canal is https://www.youtube.com/channel/UCzK69PGD9MNUwLDcu4OsnUQ follow me
 - 😄 Pronouns: He!
 - ⚡ Fun fact: im emo jsjsj
 -->i'm creating a game in c#, and i'm learning cold fusion
