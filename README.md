@@ -1,16 +1,14 @@
 <div align="center">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
 </div>
 
 # ¡Hey hola! 👋
 
 ## 🎮 Sobre Mi 👾
-Soy Irving, también conocido como **Gervinky** o **WizardSkull**, y soy Ingeniero en Informática 👨‍💻
+Soy Alex, también conocido como **Gecri** y soy Programador 👨‍💻
 
-- 🔭 Actualmente estoy buscando trabajar y aprender
-- 📚 Estoy aprendiendo Desarrollo web **Full-Stack**
-- ⚡ En mis tiempos libres desarrollo videojuegos y creo contenido
+- 📚 **Full-Stack**
+- ⚡ En mis tiempos libres desarrollo paginas web y estudio sobre tecnologias 
 
 ---
 
