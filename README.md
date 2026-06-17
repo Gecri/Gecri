@@ -2,10 +2,10 @@
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </div>
 
-# ¡Hey hola! 👋
+# ¡Hey hi! 👋
 
 ## 🎮 Sobre Mi 👾
-Soy Alex, también conocido como **Gecri** y soy Programador 👨‍💻
+I'm Alex, also know how **Gecri** and I'm developer full stack 👨‍💻
 
 - 📚 **Full-Stack**
 - ⚡ En mis tiempos libres desarrollo paginas web y estudio sobre tecnologias 
@@ -24,7 +24,6 @@ Soy Alex, también conocido como **Gecri** y soy Programador 👨‍💻
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ColdFusion-02303A?style=flat&logo=adobe&logoColor=white" />
 </p>
 
 ---
