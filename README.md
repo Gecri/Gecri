@@ -6,7 +6,7 @@
 # ¡Hey Holaaaaaaa! 👋
 
 ## Sobre Mi 👾
-I'm developer Full Stack👨‍💻
+  - I'm developer Full Stack👨‍💻
 ---
 ## Herramientas y Tecnologías que he Usado en mis Proyectos
 <p align="center">
